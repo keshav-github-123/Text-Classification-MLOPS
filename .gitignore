@@ -207,4 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 
-data/
+data/external
+data/interim
+data/processed
+data/raw
