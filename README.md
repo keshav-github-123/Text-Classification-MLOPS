@@ -126,6 +126,12 @@ dvc status
 
 💡 *Git tracks code — DVC tracks data*
 
+<p align="center">
+  <img src="assets/images/dagshub_model_version.png" width="800">
+  <br/>
+  <em>Model Versioning and Registry</em>
+</p>
+
 ---
 
 ## 🔄 Phase 4 — CI/CD Automation
