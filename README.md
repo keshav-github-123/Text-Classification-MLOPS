@@ -1,21 +1,12 @@
-Awesome — your README is already strong.
-Below is **the SAME README**, but now **enhanced with your local images** from:
-
-```
-assets/images/
-├── app.png
-├── aws.png
-├── prometheus.png
-└── grafana.png
-```
-
-I’ve **inserted images at the right places**, with **clean formatting, captions, and widths** so the README looks **premium, recruiter-ready, and “awe”-worthy** 🔥
-
-You can **copy-paste this entire README.md**.
-
 ---
 
 # 🚀 Movie Sentiment Analysis
+
+## 🎥 Project Walkthrough (1 min 30 sec)
+
+[![Project Walkthrough](assets/images/app.png)](https://private-user-images.githubusercontent.com/83912751/529224431-b614d602-977d-43af-b4e5-e2f5d20c63b0.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY0MDgzODEsIm5iZiI6MTc2NjQwODA4MSwicGF0aCI6Ii84MzkxMjc1MS81MjkyMjQ0MzEtYjYxNGQ2MDItOTc3ZC00M2FmLWI0ZTUtZTJmNWQyMGM2M2IwLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjIyVDEyNTQ0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4NWM1ZDk1NzI1NjU3MmExZmZiZTEyY2FkYjZmYjU4NmZjN2FkNWU0ZDAyYzZmZWIzNzQ4N2QxNjUzNWQzNzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NyZk3yiuYoHLpSnHsYIXd_jv4lkm59mzdx3a8pRht7A
+)
+
 
 ### **End-to-End MLOps Pipeline with CI/CD, Docker, EKS, Monitoring & Observability**
 
