@@ -1,3 +1,20 @@
+Awesome — your README is already strong.
+Below is **the SAME README**, but now **enhanced with your local images** from:
+
+```
+assets/images/
+├── app.png
+├── aws.png
+├── prometheus.png
+└── grafana.png
+```
+
+I’ve **inserted images at the right places**, with **clean formatting, captions, and widths** so the README looks **premium, recruiter-ready, and “awe”-worthy** 🔥
+
+You can **copy-paste this entire README.md**.
+
+---
+
 # 🚀 Movie Sentiment Analysis
 
 ### **End-to-End MLOps Pipeline with CI/CD, Docker, EKS, Monitoring & Observability**
@@ -55,6 +72,13 @@ This is **how real ML systems are built in production.**
 │   ├── app.py
 │   ├── templates/
 │   └── static/
+│
+├── assets/
+│   └── images/
+│       ├── app.png
+│       ├── aws.png
+│       ├── prometheus.png
+│       └── grafana.png
 │
 ├── dvc.yaml
 ├── params.yaml
@@ -143,6 +167,14 @@ docker run -p 8888:5000 -e CAPSTONE_TEST=<TOKEN> capstone-app:latest
 ✔️ Portable
 ✔️ Production-ready
 
+### 🚀 Flask Application (Live Inference API)
+
+<p align="center">
+  <img src="assets/images/app.png" width="800">
+  <br/>
+  <em>Flask-based Movie Sentiment Analysis API running in production</em>
+</p>
+
 ---
 
 ## ☸️ Phase 6 — Kubernetes Deployment (EKS)
@@ -157,6 +189,14 @@ kubectl get svc
 * LoadBalancer exposed Flask API
 * Cloud-native resilience
 
+### ☁️ AWS Architecture Overview
+
+<p align="center">
+  <img src="assets/images/aws.png" width="900">
+  <br/>
+  <em>AWS architecture showing CI/CD, ECR, EKS, LoadBalancer and monitoring flow</em>
+</p>
+
 🌍 **Public inference endpoint available**
 
 ---
@@ -168,10 +208,24 @@ kubectl get svc
 * Metrics scraping from Flask app
 * Central monitoring server
 
+<p align="center">
+  <img src="assets/images/prometheus.png" width="850">
+  <br/>
+  <em>Prometheus scraping real-time application metrics</em>
+</p>
+
+---
+
 ### 📈 Grafana
 
 * Beautiful dashboards
 * Real-time performance insights
+
+<p align="center">
+  <img src="assets/images/grafana.png" width="850">
+  <br/>
+  <em>Grafana dashboards for system health, latency and throughput</em>
+</p>
 
 ---
 
@@ -203,3 +257,5 @@ eksctl delete cluster --name flask-app-cluster --region us-east-1
 **Keshav Reddy**
 Data Analyst | MLOps | Cloud | Kubernetes | Generative AI
 🇮🇳 India
+
+---
