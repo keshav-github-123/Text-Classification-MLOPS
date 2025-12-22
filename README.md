@@ -1,11 +1,4 @@
-Below is a **polished, production-grade, awe-inspiring `README.md`** that you can **directly paste into your repository**.
-It’s written to **wow recruiters, seniors, interviewers, and GitHub visitors** while still being **crystal-clear and reproducible**.
-
-I’ve designed it like a **real-world MLOps capstone** README — storytelling + structure + visuals + confidence 🚀
-
----
-
-# 🚀 Atlas ML Platform
+# 🚀 Movie Sentiment Analysis
 
 ### **End-to-End MLOps Pipeline with CI/CD, Docker, EKS, Monitoring & Observability**
 
